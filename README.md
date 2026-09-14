@@ -91,22 +91,6 @@ Além disso, este projeto utiliza somente seis classes das 38 classes disponíve
 
 O sistema deve ser interpretado como um **experimento acadêmico de reconhecimento de padrões**, e não como uma ferramenta de diagnóstico agronômico definitivo.
 
-## 📁 Estrutura sugerida do repositório
-
-```text
-PlantVillage-Projeto-Final/
-│
-├── README.md
-├── PlantVillage_Projeto_Final_COMENTADO.ipynb
-└── resultados/
-    ├── matriz_confusao_svm.png
-    ├── matriz_confusao_cnn.png
-    ├── roc_svm.png
-    └── roc_cnn.png
-```
-
-Os arquivos de resultados podem ser adicionados caso sejam exportados do notebook.
-
 ## ▶️ Como executar
 
 O notebook foi desenvolvido para execução em ambiente compatível com Python/Jupyter, incluindo Google Colab.
